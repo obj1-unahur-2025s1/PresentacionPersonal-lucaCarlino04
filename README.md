@@ -1,13 +1,10 @@
 ![Logo UNAHUR](./UNAHUR.png)
 
-# Programación con objetos I
-## Presentación Personal
-
-### Datos Personales
-- Mi nombre es: Luca
-- Vivo en Hurlingham
-
+# Luca Carlino
+Hola, me llamo Luca. Tengo 21 años y vivo en Hurlingham, estoy en el segundo año de la tecnicatura en programacion de la UNaHur y curso Programacion con Objetos I, Bases de datos, estructuras de datos e Ingles I.
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama tito
+- Tengo dos gatos, uno se llama Mosca y el otro Tito
+- Hago tela
+- Me gusta tocar la guitarra
+- Trabajo de camarero los fines de semana
